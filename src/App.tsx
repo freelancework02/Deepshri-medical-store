@@ -283,7 +283,7 @@ export default function App() {
                 className="order-2 lg:order-1"
               >
                 <div className="mb-6 inline-block rounded-lg bg-teal-500/20 px-3 py-1 text-sm font-bold tracking-widest text-teal-400 uppercase">
-                  Meet Our Founder
+                  Meet Our Owner
                 </div>
                 <h2 className="mb-8 text-4xl font-bold tracking-tight md:text-5xl">
                   Leading with <span className="text-teal-400">Compassion</span> and Expertise
@@ -299,7 +299,7 @@ export default function App() {
                 </div>
                 <p className="text-lg leading-relaxed text-slate-400">
                   With over a decade of experience in the pharmaceutical industry,
-                  our founder established Deepshri Medical Store to bridge the gap
+                  our Owner established Deepshri Medical Store to bridge the gap
                   between quality healthcare and the common man. His dedication to
                   ethical practice and patient safety is the cornerstone of our store.
                 </p>
